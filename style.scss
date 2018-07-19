@@ -5,7 +5,7 @@ body {
     margin: 0;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1200px) and (max-width: 2500px) {
     body {
         background-color: white;
         color: white;
