@@ -1,11 +1,11 @@
 body {
-    background-color: tan;
+    background-color: white;
     color: black;
     padding: 0;
     margin: 0;
 }
 
-@media (min-width: 1200px) and (max-width: 1439px) {
+@media (min-width: 1200px) {
     body {
         background-color: white;
         color: white;
